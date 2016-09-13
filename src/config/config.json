@@ -1,0 +1,12 @@
+{
+  "myapi": {
+    "api": {
+      "path": "https://myapi.mywebsite.com/api/v1/"
+    },
+    "account": {
+      "user": "dimitri",
+      "password": "myPassword",
+      "apikey": "notApiKey"
+    }
+  }
+}
