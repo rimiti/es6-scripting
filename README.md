@@ -1,4 +1,4 @@
-# Base minimale pour scripter du JS ES6
+# Project structure to start coding with ES6 features
 
-Cette base n'a pour objectif que de pouvoir scripter rapidement en ES6.
+This is the minimum to quickly start coding with ES6
 
