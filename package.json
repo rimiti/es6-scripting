@@ -14,8 +14,8 @@
     "babel-core": "^6.14.0",
     "babel-preset-es2015": "^6.14.0",
     "gulp": "^3.9.1",
-    "gulp-babel": "^6.1.2",
-    "gulp-sourcemaps": "^1.6.0"
+    "gulp-babel": "^7.0.1",
+    "gulp-sourcemaps": "^2.6.4"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
